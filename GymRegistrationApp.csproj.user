@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\AccountSettingsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AttendanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CreateStaffDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DailyGymForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ExpensesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MemberDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PaymentDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\QRCodeManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ReceiptPreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RenewalDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StaffActivityHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
